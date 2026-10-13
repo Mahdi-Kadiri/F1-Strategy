@@ -4,7 +4,7 @@ A race strategy optimisation tool trained on 112,732 stint-laps across
 2020–2025. Predicts optimal pit stop strategies by modelling tyre 
 degradation, fuel burn, compound pace gaps and safety car probability.
 
-**Live tool:** [https://web-production-9f341.up.railway.app/](https://f1-strategy-w9ze.onrender.com)
+**Live tool:** https://f1-strategy-w9ze.onrender.com
 
 ---
 
